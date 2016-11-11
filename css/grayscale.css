@@ -8,6 +8,9 @@ body {
   height: 100%;
   font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
+  background-image: url(/img/snowdonia.jpg);
+  opacity: 0.6;
+    filter: alpha(opacity=60);
   background-color: black;
 }
 html {
